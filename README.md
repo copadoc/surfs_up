@@ -5,6 +5,7 @@ Overview
 In this challenge we ran a climate analysis for precipitation and temperature in Honolulu, HI  while primarily focusing on two months, June and December. To create this, we used a SQLlite database, and used a SQL tool called SQLAlchemy  to connect and extract data from the database. After the data was extracted from database, using a query in python, it was placed into a dataframe for more analysis.
 
 Results
+
 •	Comparing both June and December, based on the charts below, it is demonstrated that the average temperature in June is 74.9 degrees.
 
 <img width="295" alt="june" src="https://user-images.githubusercontent.com/99380969/170911978-34922575-2d75-4db3-923c-27d93adfbc59.png">
@@ -17,3 +18,8 @@ Results
 <img width="224" alt="june tem avg" src="https://user-images.githubusercontent.com/99380969/170912360-c619df09-ae4f-44cb-8a54-1ad795a9109f.png">
 
 <img width="273" alt="december" src="https://user-images.githubusercontent.com/99380969/170912363-0dcca291-16b9-479e-84b1-c102202b4491.png">
+
+
+Summary
+
+Based on the information generated from the database, it can be determined that the temperatures for the months of June and December are about the same, there is only about a 3 degree difference. In addition, with the other information gathered, it can be concluded that the temperatures could possibly remain about the same year round.
